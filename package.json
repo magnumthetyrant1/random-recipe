@@ -1,0 +1,19 @@
+{
+  "name": "random-recipe",
+  "version": "1.0.0",
+  "description": "random recipe selector",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magnumthetyrant1/random-recipe.git"
+  },
+  "author": "Max-Andre Zils",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magnumthetyrant1/random-recipe/issues"
+  },
+  "homepage": "https://github.com/magnumthetyrant1/random-recipe#readme"
+}
